@@ -35,3 +35,4 @@ Evidence: https://cvilleschools.onshape.com/documents/4f241e15e2749a552c15adc5/w
 
 
 Image: 
+<img src="images/Truck Design.png" width="200">
