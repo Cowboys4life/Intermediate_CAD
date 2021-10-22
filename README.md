@@ -40,3 +40,19 @@ Image:
 
 
 Reflection: While making the trucks I learned how to make things symmetric duriing an extrude. I also learned that you need to have a dimension for pretty much everything in this part. I learned a little bit more geometry by making this part. This is also my first time sketching on the top plane ever.
+
+
+
+2.3 Wheel and Bearings
+
+
+
+Description: It was a quck easy assignment that didn't take that long to do. The stepswere pretty easy and simple.
+
+
+
+Evidence: https://cvilleschools.onshape.com/documents/4f241e15e2749a552c15adc5/w/1a304f0a79cda24600361051/e/c8b073537bd6ef047c35a851
+
+
+
+Image:
