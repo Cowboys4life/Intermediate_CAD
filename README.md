@@ -56,3 +56,8 @@ Evidence: https://cvilleschools.onshape.com/documents/4f241e15e2749a552c15adc5/w
 
 
 Image:
+<img src="images/Wheels.png" width="200"
+     
+     
+     
+Reflection: I learned how to add multiple fillets into one part. I also learned how to use the revovle tool in this part aswell. Making the wheel and bearing is very easy if you just follow the steps that it ask you to do.     
