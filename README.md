@@ -16,7 +16,7 @@ Designing the deck was pretty easy to do because there was steps to help me comp
 
 
 ### Image:
-<img src="images/Skateboard.png" alt="motaharu" width="200">
+<img src="images/Skateboard.png" alt="motaharu" width="400">
 
 
 
