@@ -41,7 +41,7 @@ There was a lot of sketches being made to this one part. It took some time to do
 
 
 ## Image: 
-<img src="images/Truck Design.png" width="200">
+<img src="images/Truck Design.png" width="400">
 
 
 
@@ -67,7 +67,7 @@ It was a quck easy assignment that didn't take that long to do. The stepswere pr
 
 
 ## Image:
- <img src="images/Wheels.png" width="200">
+ <img src="images/Wheels.png" width="400">
      
      
      
