@@ -92,3 +92,8 @@ It was an assignment that took some time to do. I was confused on trying to revo
 
 
 ## Images:
+ <img src="images/Assembly.png" width="400">
+ 
+ 
+ ## Reflection:
+ It was a challenging assignment that took a good amount of time to do. I learned how to replicate a piece of the sketch and that well help me the assignments in the future. It makes everything much quicker instead of it taking 1 hour just to put the same part in 12 times.
