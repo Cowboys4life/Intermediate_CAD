@@ -97,3 +97,22 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  ## Reflection:
  It was a challenging assignment that took a good amount of time to do. I learned how to replicate a piece of the sketch and that well help me the assignments in the future. It makes everything much quicker instead of it taking 1 hour just to put the same part in 12 times.
+
+
+---
+
+
+ ## 3.1 How the Pros Do It
+ 
+ 
+  
+ ## Description:
+ It was a pretty easy assignment that didn't take long and it was pretty fun making a lego. I never made a lego in onshape before until now. 
+ 
+ 
+ ## Evidence
+ [Link to my skateboard in Onshape](https://cvilleschools.onshape.com/documents/4f241e15e2749a552c15adc5/w/1a304f0a79cda24600361051/e/a7ad9ced9648c0cc6c678662)
+ 
+ 
+ 
+ ## Images:
