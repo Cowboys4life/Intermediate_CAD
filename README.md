@@ -116,3 +116,9 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  
  ## Images:
+ <img src="images/Lego.png" width="400">
+ 
+ 
+ 
+ ## Reflection:
+ Once again replicating is a very important and helpful tool to use in onshape too make things very easier. Also make sure everything is defined and has no blue all black before you are done sketching.
