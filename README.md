@@ -20,7 +20,7 @@ Designing the deck was pretty easy to do because there was steps to help me comp
 
 
 
-### Reflection:
+## Reflection:
 Buliding the deck made me learn how to use fillets properly. It also made me learn how to use the mirror tool and when to use it properly thanks to Mr. H. Thoose two things were the only things that I learned to use or got help on.
 
 ---
@@ -110,8 +110,8 @@ It was an assignment that took some time to do. I was confused on trying to revo
  It was a pretty easy assignment that didn't take long and it was pretty fun making a lego. I never made a lego in onshape before until now. 
  
  
- ## Evidence
- [Link to my skateboard in Onshape](https://cvilleschools.onshape.com/documents/4f241e15e2749a552c15adc5/w/1a304f0a79cda24600361051/e/a7ad9ced9648c0cc6c678662)
+ ## Evidence:
+ [Link to my lego in Onshape](https://cvilleschools.onshape.com/documents/15729b3465d9a7d04e305d12/w/37062c8eba2507fb52874f84/e/ac4b3f8c702c76487ca63979)
  
  
  
@@ -122,3 +122,21 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  ## Reflection:
  Once again replicating is a very important and helpful tool to use in onshape too make things very easier. Also make sure everything is defined and has no blue all black before you are done sketching.
+
+
+---
+
+
+ ## 3.2 One Brick to Rule Them All
+ 
+ 
+ ## Description:
+ It was an assignment were we had to add a lot of configuration to make it colorful, diffrent shape, and size. It was pretty easy and didn't take that long to do.
+ 
+ 
+ ## Evidence:
+ [Link to my lego in Onshape](https://cvilleschools.onshape.com/documents/15729b3465d9a7d04e305d12/w/37062c8eba2507fb52874f84/e/ac4b3f8c702c76487ca63979)
+ 
+ 
+ ## Images:
+ 
