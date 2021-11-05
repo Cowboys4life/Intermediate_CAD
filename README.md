@@ -139,4 +139,4 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  
  ## Images:
- 
+ <img src="images/Lego.png" width="400">
