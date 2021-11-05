@@ -21,7 +21,8 @@ Designing the deck was pretty easy to do because there was steps to help me comp
 
 
 ## Reflection:
-Buliding the deck made me learn how to use fillets properly. It also made me learn how to use the mirror tool and when to use it properly thanks to Mr. H. Thoose two things were the only things that I learned to use or got help on.
+
+Buliding the deck made me learn how to use fillets properly.Round sharp edges that is defined as a radius. Then you enter your dimension for the fillet. The keyboard short cut for the fillet is Shift-F.
 
 ---
 
@@ -46,7 +47,7 @@ There was a lot of sketches being made to this one part. It took some time to do
 
 
 ## Reflection: 
-While making the trucks I learned how to make things symmetric duriing an extrude. I also learned that you need to have a dimension for pretty much everything in this part. I learned a little bit more geometry by making this part. This is also my first time sketching on the top plane ever.
+While making the trucks I learned how to make things symmetric duriing an extrude. I also learned that you need to have a dimension for pretty much everything in this part. I learned a little bit more geometry by making this part. This is also my first time sketching on the top plane ever. 
 
 
 
@@ -96,7 +97,7 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  
  ## Reflection:
- It was a challenging assignment that took a good amount of time to do. I learned how to replicate a piece of the sketch and that well help me the assignments in the future. It makes everything much quicker instead of it taking 1 hour just to put the same part in 12 times.
+ It was a challenging assignment that took a good amount of time to do. I learned how to replicate a piece of the sketch and that well help me the assignments in the future. It makes everything much quicker instead of it taking 1 hour just to put the same part in 12 times. To replicate you pick the part that you want to replicate then you pick the part you want to replicate it on. Then you put it where you want it to be.
 
 
 ---
