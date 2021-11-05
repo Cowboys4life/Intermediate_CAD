@@ -139,4 +139,8 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  
  ## Images:
- <img src="images/Lego.png" width="400">
+ <img src="images/OneBrickToRuleThemAll.png" width="400">
+
+
+## Reflection:
+I learned how to use the configuration panel and how to make things different sizez, shape, and color. I think its going to help me on my project because it makes seperate parts and you can make them different from each other.
