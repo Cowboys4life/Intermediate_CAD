@@ -6,7 +6,7 @@
 
 
 ### Description:
-Designing the deck was pretty easy to do because there was steps to help me complete the deck. It was it a pretty quick assignment that didnt take me long to complete.
+Designing the deck was pretty easy to do because there was steps to help me complete the deck. It was it a pretty quick assignment that didnt take me long to complete. I needed to bulid a deck for my skateboard. I needed to put holes in the skateboard and replicate it so there 4 on the left and right side of the deck.
 
 
 
@@ -31,7 +31,7 @@ Buliding the deck made me learn how to use fillets properly.Round sharp edges th
 
 
 ## Description: 
-There was a lot of sketches being made to this one part. It took some time to do but I did complete it. It was prolly the most challenging assignment I have done in a while.
+There was a lot of sketches being made to this one part. It took some time to do but I did complete it. It was prolly the most challenging assignment I have done in a while. I had to make trucks for the bottom of the deck for the skateboard so you can attach the wheel.
 
 
 
@@ -57,7 +57,7 @@ While making the trucks I learned how to make things symmetric duriing an extrud
 
 
 ## Description: 
-It was a quck easy assignment that didn't take that long to do. The stepswere pretty easy and simple.
+It was a quck easy assignment that didn't take that long to do. The stepswere pretty easy and simple. I needed to build wheel and bearings to attach to the trucks to the bottom of the deck.
 
 
 
@@ -73,7 +73,7 @@ It was a quck easy assignment that didn't take that long to do. The stepswere pr
      
      
 ## Reflection: 
-I learned how to add multiple fillets into one part. I also learned how to use the revovle tool in this part aswell. Making the wheel and bearing is very easy if you just follow the steps that it ask you to do. To add fillets the shortcut is Shift-F and its located at the top of the tool bar.   
+I learned how to add multiple fillets into one part. I also learned how to use the revovle tool in this part aswell. Making the wheel and bearing is very easy if you just follow the steps that it ask you to do. To add fillets the shortcut is Shift-F and its located at the top of the tool bar. I needed to assembly the whole skateboard and add mates so it can attach together.
 
 
 ---
@@ -108,7 +108,7 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
   
  ## Description:
- It was a pretty easy assignment that didn't take long and it was pretty fun making a lego. I never made a lego in onshape before until now. 
+ It was a pretty easy assignment that didn't take long and it was pretty fun making a lego. I never made a lego in onshape before until now. I had to build a lego for the duck building in 3.3. I had to make a rectangle and extrude.
  
  
  ## Evidence:
@@ -132,7 +132,7 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  
  ## Description:
- It was an assignment were we had to add a lot of configuration to make it colorful, diffrent shape, and size. It was pretty easy and didn't take that long to do.
+ It was an assignment were we had to add a lot of configuration to make it colorful, diffrent shape, and size. It was pretty easy and didn't take that long to do. I had to make multiple configurations on the lego so it can be different size shape and color.
  
  
  ## Evidence:
