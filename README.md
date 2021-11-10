@@ -47,7 +47,7 @@ There was a lot of sketches being made to this one part. It took some time to do
 
 
 ## Reflection: 
-While making the trucks I learned how to make things symmetric duriing an extrude. I also learned that you need to have a dimension for pretty much everything in this part. I learned a little bit more geometry by making this part. This is also my first time sketching on the top plane ever. 
+While making the trucks I learned how to make things symmetric duriing an extrude. I also learned that you need to have a dimension for pretty much everything in this part. I learned a little bit more geometry by making this part. This is also my first time sketching on the top plane ever. Click on the symmetric tool at the top of the tool bar to make ur part symmetric.
 
 
 
@@ -73,7 +73,7 @@ It was a quck easy assignment that didn't take that long to do. The stepswere pr
      
      
 ## Reflection: 
-I learned how to add multiple fillets into one part. I also learned how to use the revovle tool in this part aswell. Making the wheel and bearing is very easy if you just follow the steps that it ask you to do.     
+I learned how to add multiple fillets into one part. I also learned how to use the revovle tool in this part aswell. Making the wheel and bearing is very easy if you just follow the steps that it ask you to do. To add fillets the shortcut is Shift-F and its located at the top of the tool bar.   
 
 
 ---
@@ -97,7 +97,7 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  
  ## Reflection:
- It was a challenging assignment that took a good amount of time to do. I learned how to replicate a piece of the sketch and that well help me the assignments in the future. It makes everything much quicker instead of it taking 1 hour just to put the same part in 12 times. To replicate you pick the part that you want to replicate then you pick the part you want to replicate it on. Then you put it where you want it to be.
+ It was a challenging assignment that took a good amount of time to do. I learned how to replicate a piece of the sketch and that well help me the assignments in the future. It makes everything much quicker instead of it taking 1 hour just to put the same part in 12 times. To replicate you pick the part that you want to replicate then you pick the part you want to replicate it on. Then you put it where you want it to be. The repiclate tool is at the top of the screen.
 
 
 ---
@@ -122,7 +122,7 @@ It was an assignment that took some time to do. I was confused on trying to revo
  
  
  ## Reflection:
- Once again replicating is a very important and helpful tool to use in onshape too make things very easier. Also make sure everything is defined and has no blue all black before you are done sketching.
+ Once again replicating is a very important and helpful tool to use in onshape too make things very easier. Also make sure everything is defined and has no blue all black before you are done sketching. Replicating is at the top of the tool bar and it makes things ten times quicker if you replicate the same part.
 
 
 ---
@@ -144,4 +144,4 @@ It was an assignment that took some time to do. I was confused on trying to revo
 
 
 ## Reflection:
-I learned how to use the configuration panel and how to make things different sizez, shape, and color. I think its going to help me on my project because it makes seperate parts and you can make them different from each other.
+I learned how to use the configuration panel and how to make things different sizez, shape, and color. I think its going to help me on my project because it makes seperate parts and you can make them different from each other. Configuration panel is located on the right side of the ccomputer in onshape you selct the part you want to configure and then it gets put in the panel then edit the panel.
