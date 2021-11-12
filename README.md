@@ -145,3 +145,26 @@ It was an assignment that took some time to do. I was confused on trying to revo
 
 ## Reflection:
 I learned how to use the configuration panel and how to make things different sizez, shape, and color. I think its going to help me on my project because it makes seperate parts and you can make them different from each other. Configuration panel is located on the right side of the ccomputer in onshape you selct the part you want to configure and then it gets put in the panel then edit the panel.
+
+
+---
+
+
+## Building Blocks
+
+
+
+## Description:
+I had to build a Duck out of the lego blocks that I created in the configuration panel. Building the duck was pretty easy to do you just had to use mate conncetors to connect the lego.
+
+
+## Evidence:
+[Link to my lego in Onshape](https://cvilleschools.onshape.com/documents/15729b3465d9a7d04e305d12/w/37062c8eba2507fb52874f84/e/ac4b3f8c702c76487ca63979)
+
+
+## Image:
+<img src="images/Duck.png" width="400">
+
+
+## Reflection:
+Mate connectors connect parts together and make them defined. Mate connector is located at the top of the tool bar in assembly.
